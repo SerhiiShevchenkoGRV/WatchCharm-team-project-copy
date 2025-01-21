@@ -1,11 +1,11 @@
 {
-  "name": "vanilla-app-template",
+  "name": "WatchCharm-team-project-copy",
   "private": true,
   "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/Project-WatchCharm/",
+    "build": "vite build --base=/WatchCharm-team-project-copy/",
     "preview": "vite preview"
   },
   "devDependencies": {
